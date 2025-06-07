@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>@SSapple13</title>
+  <title>탄밥</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     * {
@@ -354,13 +354,13 @@
     <div class="profile-top">
       <img class="profile-img" src="이미지 코드(.jpg/png 형식)" alt="프로필">
       <div class="profile-details">
-        <h2>이름</h2>
-        <div class="username">@ID</div>
-        <div class="profile-meta">한 줄이 적당합니다.</div>
+        <h2>탄밥</h2>
+        <div class="username">@BurntRice</div>
+        <div class="profile-meta">밥이 탔어.</div>
         <div class="follow-info">
           <!-- 팔로잉/팔로워 숫자는 자유롭게 바꿔주세요. -->
-          <span><strong>713</strong> 팔로잉</span>
-          <span><strong>110</strong> 팔로워</span>
+          <span><strong>11</strong> 팔로잉</span>
+          <span><strong>11</strong> 팔로워</span>
         </div>
       </div>
     </div>
